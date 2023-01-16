@@ -1,0 +1,14 @@
+<div class="bg-white border rounded position-fixed h-auto w-50 p-3" style="left:30%; top: 25%; z-index: 1000;">
+    <form method="post" action="{% url 'delete' dashboard.id %}">
+        {% csrf_token %}
+        <hr>
+        <h5>Are you sure you want to delete {{dashboard}}</h5>
+        <div class="d-flex justify-content-end">
+            <button type="submit" class="btn btn-danger">Delete</button>
+            <button class="btn btn-primary" hx-get="{% url 'charts:remover' %}" hx-target="#delete-container">Cancel</button>
+        </div>
+    </form>
+</div>
+<div class="position-fixed start-0 top-0" hx-get="{% url 'charts:remover' %}" hx-target= "#delete-container" hx-swap="innerHTML" style="width: 100vw; height: 100vh; background-color: rgba(0, 0, 0, 0.172); z-index: 300">
+        
+</div>

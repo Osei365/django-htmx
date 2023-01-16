@@ -1,0 +1,27 @@
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a .login-out {
+    color: white;
+}
+
+a:hover, a:focus {
+    opacity: 0.5;
+    transition: all 0.5s;
+}
+
+.profile-container {
+    display: flex;
+    width: 50vw;
+    height: auto;
+    padding: 1rem;
+    flex-flow: column nowrap;
+    justify-content: center;
+}
+
+.profile-container li {
+    margin: 2rem;
+}

@@ -1,0 +1,22 @@
+<div id="chart-container">
+    <div class="position-fixed bg-white border p-2 rounded" style="left: 25%; top: 25%; z-index: 3000" hx-target="#chart-container" hx-swap="outerHTML">
+        {% if messages %}
+        <ul>
+            {% for message in messages %}
+            <li>{{message}}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        <form method="post" action="">
+            {% csrf_token %}
+            {{form.as_p}}
+            <div class="d-flex justify-content-end">
+                <button type="submit" hx-post="{% url 'charts:create-chart' pk=pk pk2=pk2 %}" class="btn btn-primary mb-3 mt-3 p-1">create chart</button>
+            </div>
+            
+        </form>
+    </div>
+    <div class="position-fixed start-0 top-0" hx-get="{% url 'charts:remover' %}" hx-target= "#chart-container" hx-swap="outerHTML" style="width: 100vw; height: 100vh; background-color: rgba(0, 0, 0, 0.172); z-index: 300">
+        
+    </div>
+</div>

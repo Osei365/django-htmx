@@ -1,0 +1,22 @@
+<h1>{{dashboard.title}}</h1>
+
+<div class="position-fixed h-auto w-50 bg-white p-2 rounded" style="left: 25%; top: 25%; z-index:3000;" hx-target="#title" hx-swap="innerHTML"> 
+    {% if messages %}
+    <ul>
+        {% for message in messages %}
+        <li>{{message}}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    <form hx-post="{% url 'charts:update-title' dashboard.id %}">
+        {% csrf_token %}
+        {{form}}
+        <div class="d-flex justify-content-end">
+            <button type="submit" class="btn btn-primary mb-3 mt-3 p-1">change</button>
+        </div>
+        
+    </form>
+</div>
+<div class="position-fixed start-0 top-0" hx-get="{% url 'charts:show-update' dashboard.id %}" hx-target= "#title" hx-swap="innerHTML" style="width: 100vw; height: 100vh; background-color: rgba(0, 0, 0, 0.172); z-index: 300">
+         
+</div>  

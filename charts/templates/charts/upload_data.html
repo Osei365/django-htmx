@@ -1,0 +1,13 @@
+<div class="bg-white border rounded position-fixed h-auto p-3" style="left: 30%; top: 25%; z-index: 3000;">
+    <form enctype="multipart/form-data" action="{% url 'charts:upload' pk %}" method="post">
+        {% csrf_token %}
+        {{form.as_p}}
+        <div class="d-flex justify-content-end">
+            <input type="submit" value="upload" class="btn btn-primary mb-3 mt-3 p-1">
+        </div>
+        
+    </form>
+</div>
+<div class="position-fixed start-0 top-0" hx-get="{% url 'charts:remover' %}" hx-target= "#multipurpose" hx-swap="innerHTML" style="width: 100vw; height: 100vh; background-color: rgba(0, 0, 0, 0.172); z-index: 300">
+        
+</div>

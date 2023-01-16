@@ -1,0 +1,13 @@
+<div  style="position: fixed; width: 50vw; left: 25vw; top: 25vh; z-index:3000; background-color: white;" class="border p-2 rounded">
+    <form method="post" action="{% url 'charts:pivot-table' pk %}">
+        {% csrf_token %}
+        {{form.as_p}}
+        <div class="d-flex justify-content-end">
+            <button class="btn btn-primary mb-3 mt-3 p-1">create pivottable</button>
+        </div>
+            
+    </form>
+</div>
+<div class="position-fixed start-0 top-0" hx-get="{% url 'charts:remover' %}" hx-target= "#multipurpose" style="width: 100vw; height: 100vh; background-color: rgba(0, 0, 0, 0.172); z-index: 300">
+ 
+</div>

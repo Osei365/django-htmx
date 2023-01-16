@@ -1,0 +1,307 @@
+Car,MPG
+AMC Ambassador SST,17.0
+AMC Concord,21.85
+AMC Concord DL,23.0
+AMC Concord DL 6,20.2
+AMC Concord d/l,18.1
+AMC Gremlin,19.5
+AMC Hornet,19.375
+AMC Hornet Sportabout (sw),18.0
+AMC Matador,15.7
+AMC Matador (sw),14.5
+AMC Pacer,19.0
+AMC Pacer d/l,17.5
+AMC Rebel SST,16.0
+AMC Rebel SST (sw),0.0
+AMC Spirit DL,27.4
+Audi 100 LS,24.0
+Audi 100LS,21.5
+Audi 4000,34.3
+Audi 5000,20.3
+Audi 5000s (diesel),36.4
+Audi Fox,29.0
+BMW 2002,26.0
+BMW 320i,21.5
+Buick Century,19.7
+Buick Century 350,13.0
+Buick Century Limited,25.0
+Buick Century Luxus (sw),13.0
+Buick Century Special,20.6
+Buick Electra 225 Custom,12.0
+Buick Estate Wagon (sw),15.45
+Buick LeSabre Custom,13.0
+Buick Opel Isuzu Deluxe,30.0
+Buick Regal Sport Coupe (turbo),17.7
+Buick Skyhawk,21.0
+Buick Skylark,23.55
+Buick Skylark 320,15.0
+Buick Skylark Limited,28.4
+Cadillac Eldorado,23.0
+Cadillac Seville,16.5
+Capri ii,25.0
+Chevrolet Bel Air,15.0
+Chevrolet C10,13.0
+Chevrolet Camaro,27.0
+Chevrolet Caprice Classic,15.833333333333334
+Chevrolet Cavalier,28.0
+Chevrolet Cavalier 2-door,34.0
+Chevrolet Cavalier Wagon,27.0
+Chevrolet Chevelle Concours (sw),6.5
+Chevrolet Chevelle Malibu,17.5
+Chevrolet Chevelle Malibu Classic,16.75
+Chevrolet Chevette,30.4
+Chevrolet Citation,26.766666666666666
+Chevrolet Concours,17.5
+Chevrolet Impala,13.0
+Chevrolet Malibu,16.75
+Chevrolet Malibu Classic (sw),19.2
+Chevrolet Monte Carlo,15.0
+Chevrolet Monte Carlo Landau,17.35
+Chevrolet Monte Carlo S,15.0
+Chevrolet Monza 2+2,20.0
+Chevrolet Nova,18.33333333333333
+Chevrolet Nova Custom,16.0
+Chevrolet Vega,22.0
+Chevrolet Vega (sw),22.0
+Chevrolet Vega 2300,28.0
+Chevrolet Woody,24.5
+Chevrolete Chevelle Malibu,16.0
+Chevy C20,10.0
+Chevy S-10,31.0
+Chrysler Cordoba,15.5
+Chrysler Lebaron Medallion,26.0
+Chrysler Lebaron Salon,17.6
+Chrysler Lebaron Town @ Country (sw),18.5
+Chrysler New Yorker Brougham,13.0
+Chrysler Newport Royal,13.0
+Citroen DS-21 Pallas,0.0
+Datsun 1200,35.0
+Datsun 200-SX,23.9
+Datsun 200SX,32.9
+Datsun 210,36.3
+Datsun 210 MPG,37.0
+Datsun 280-ZX,32.7
+Datsun 310,37.2
+Datsun 310 GX,38.0
+Datsun 510,27.2
+Datsun 510 (sw),28.0
+Datsun 510 Hatchback,37.0
+Datsun 610,22.0
+Datsun 710,28.0
+Datsun 810,22.0
+Datsun 810 Maxima,24.2
+Datsun B-210,32.0
+Datsun B210,31.0
+Datsun B210 GX,39.4
+Datsun F-10 Hatchback,33.5
+Datsun PL510,27.0
+Dodge Aries SE,29.0
+Dodge Aries Wagon (sw),25.8
+Dodge Aspen,18.85
+Dodge Aspen 6,20.6
+Dodge Aspen SE,20.0
+Dodge Challenger SE,15.0
+Dodge Charger 2.2,36.0
+Dodge Colt,27.3
+Dodge Colt (sw),28.0
+Dodge Colt Hardtop,25.0
+Dodge Colt Hatchback Custom,35.7
+Dodge Colt m/m,33.5
+Dodge Coronet Brougham,16.0
+Dodge Coronet Custom,15.0
+Dodge Coronet Custom (sw),14.0
+Dodge D100,13.0
+Dodge D200,11.0
+Dodge Dart Custom,15.0
+Dodge Diplomat,19.4
+Dodge Magnum XE,17.5
+Dodge Monaco (sw),12.0
+Dodge Monaco Brougham,15.5
+Dodge Omni,30.9
+Dodge Rampage,32.0
+Dodge St. Regis,18.2
+Fiat 124 Sport Coupe,26.0
+Fiat 124 TC,26.0
+Fiat 124B,30.0
+Fiat 128,26.5
+Fiat 131,28.0
+Fiat Strada Custom,37.3
+Fiat x1.9,31.0
+Ford Country,12.0
+Ford Country Squire (sw),14.25
+Ford Escort 2H,29.9
+Ford Escort 4W,34.4
+Ford F108,13.0
+Ford F250,10.0
+Ford Fairmont,26.4
+Ford Fairmont (auto),20.2
+Ford Fairmont (man),25.1
+Ford Fairmont 4,22.3
+Ford Fairmont Futura,24.0
+Ford Fiesta,36.1
+Ford Futura,18.1
+Ford Galaxie 500,14.333333333333334
+Ford Gran Torino,14.833333333333334
+Ford Gran Torino (sw),13.5
+Ford Grenada,18.5
+Ford Grenada ghia,18.0
+Ford Grenada gl,20.2
+Ford Grenada l,22.0
+Ford LTD,13.5
+Ford LTD Landau,17.6
+Ford Maverick,19.8
+Ford Mustang,18.0
+Ford Mustang Boss 302,0.0
+Ford Mustang Cobra,23.6
+Ford Mustang GL,27.0
+Ford Mustang II,13.0
+Ford Mustang II 2+2,25.5
+Ford Pinto,22.916666666666668
+Ford Pinto (sw),22.0
+Ford Pinto Runabout,21.0
+Ford Ranger,28.0
+Ford Thunderbird,16.0
+Ford Torino,17.0
+Ford Torino (sw),0.0
+Ford Torino 500,19.0
+Hi 1200D,9.0
+Honda Accord,34.2
+Honda Accord CVCC,31.5
+Honda Accord LX,29.5
+Honda Civic,31.666666666666668
+Honda Civic (auto),32.0
+Honda Civic 1300,35.1
+Honda Civic 1500 gl,44.6
+Honda Civic CVCC,34.55
+Honda Prelude,33.7
+Mazda 626,31.450000000000003
+Mazda GLC,46.6
+Mazda GLC 4,34.1
+Mazda GLC Custom,31.0
+Mazda GLC Custom l,37.0
+Mazda GLC Deluxe,33.45
+Mazda RX-4,21.5
+Mazda RX-7 GS,23.7
+Mazda RX2 Coupe,19.0
+Mazda RX3,18.0
+Mercedes Benz 300d,25.4
+Mercedes-Benz 240d,30.0
+Mercedes-Benz 280s,16.5
+Mercury Capri 2000,23.0
+Mercury Capri v6,21.0
+Mercury Cougar Brougham,15.0
+Mercury Grand Marquis,16.5
+Mercury Lynx l,36.0
+Mercury Marquis,11.0
+Mercury Marquis Brougham,12.0
+Mercury Monarch,15.0
+Mercury Monarch ghia,20.2
+Mercury Zephyr,20.8
+Mercury Zephyr 6,19.8
+Nissan Stanza XE,36.0
+Oldsmobile Cutlass Ciera (diesel),38.0
+Oldsmobile Cutlass LS,26.6
+Oldsmobile Cutlass Salon Brougham,21.9
+Oldsmobile Cutlass Supreme,17.0
+Oldsmobile Delta 88 Royale,12.0
+Oldsmobile Omega,11.0
+Oldsmobile Omega Brougham,26.8
+Oldsmobile Starfire SX,23.8
+Oldsmobile Vista Cruiser,12.0
+Opel 1900,26.5
+Opel Manta,25.0
+Peugeot 304,30.0
+Peugeot 504,23.55
+Peugeot 504 (sw),21.0
+Peugeot 505s Turbo Diesel,28.1
+Peugeot 604sl,16.2
+Plymouth 'Cuda 340,14.0
+Plymouth Arrow GS,25.5
+Plymouth Champ,39.0
+Plymouth Cricket,26.0
+Plymouth Custom Suburb,13.0
+Plymouth Duster,21.666666666666668
+Plymouth Fury,18.0
+Plymouth Fury Gran Sedan,14.0
+Plymouth Fury III,15.0
+Plymouth Fury iii,14.0
+Plymouth Grand Fury,16.0
+Plymouth Horizon,34.2
+Plymouth Horizon 4,34.7
+Plymouth Horizon Miser,38.0
+Plymouth Horizon TC3,34.5
+Plymouth Reliant,28.6
+Plymouth Sapporo,23.2
+Plymouth Satellite,18.0
+Plymouth Satellite (sw),0.0
+Plymouth Satellite Custom,16.0
+Plymouth Satellite Custom (sw),14.0
+Plymouth Satellite Sebring,18.0
+Plymouth Valiant,20.0
+Plymouth Valiant Custom,19.0
+Plymouth Volare,20.5
+Plymouth Volare Custom,19.0
+Plymouth Volare Premier v8,13.0
+Pontiac Astro,23.0
+Pontiac Catalina,14.666666666666666
+Pontiac Catalina Brougham,14.0
+Pontiac Firebird,19.0
+Pontiac Grand Prix,16.0
+Pontiac Grand Prix LJ,16.0
+Pontiac J2000 SE Hatchback,31.0
+Pontiac Lemans V6,21.5
+Pontiac Phoenix,30.25
+Pontiac Phoenix LJ,19.2
+Pontiac Safari (sw),13.0
+Pontiac Sunbird Coupe,24.5
+Pontiac Ventura SJ,18.5
+Renault 12 (sw),26.0
+Renault 12tl,27.0
+Renault 18i,34.5
+Renault 5 GTL,36.0
+Renault Lecar Deluxe,40.9
+Saab 900s,0.0
+Saab 99LE,25.0
+Saab 99e,25.0
+Saab 99gle,21.6
+Saab 99le,24.0
+Subaru,29.15
+Subaru DL,31.9
+Toyota Camry,20.0
+Toyota Celica GT,32.0
+Toyota Celica GT Liftback,21.1
+Toyota Corolla,29.23333333333333
+Toyota Corolla 1200,31.5
+Toyota Corolla 1600 (sw),27.0
+Toyota Corolla Hardtop,24.0
+Toyota Corolla Liftback,27.9
+Toyota Corolla Mark II (sw),23.0
+Toyota Corolla Mark ii,24.0
+Toyota Corolla Tercel,38.1
+Toyota Cressida,25.4
+Toyota Mark II,19.5
+Toyota Starlet,39.1
+Toyota Tercel,37.7
+Triumph TR7 Coupe,35.0
+Volkswagen 1131 Deluxe Sedan,26.0
+Volkswagen 411 (sw),22.0
+Volkswagen Dasher,27.166666666666668
+Volkswagen Dasher (diesel),43.4
+Volkswagen Jetta,33.0
+Volkswagen Model 111,27.0
+Volkswagen Pickup,44.0
+Volkswagen Rabbit,31.76
+Volkswagen Rabbit C (Diesel),44.3
+Volkswagen Rabbit Custom,30.45
+Volkswagen Rabbit Custom Diesel,43.1
+Volkswagen Rabbit l,36.0
+Volkswagen Scirocco,31.5
+Volkswagen Super Beetle,26.0
+Volkswagen Super Beetle 117,0.0
+Volkswagen Type 3,23.0
+Volvo 144ea,19.0
+Volvo 145e (sw),18.0
+Volvo 244DL,22.0
+Volvo 245,20.0
+Volvo 264gl,17.0
+Volvo Diesel,30.7
